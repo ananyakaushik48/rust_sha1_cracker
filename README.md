@@ -87,13 +87,7 @@ Download the full example files:
   ```plaintext
   password not found in wordlist :(
   ```
-
----
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
+  
 ---
 
 ## Disclaimer
